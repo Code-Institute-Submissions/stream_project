@@ -102,6 +102,7 @@ navbar-wrapper{
 	color:gray;*/
 }
 body {
+	line-height: 14.428571 !important;
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
